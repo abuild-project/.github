@@ -9,10 +9,10 @@ outputs, explicit interfaces and well-tested process lifecycles.
 
 **[Arca](https://github.com/abuild-project/arca-ada)** provides CPIO `newc`
 and TAR archive writers for Ada, plus a Linux command-line tool for creating
-archives from directory trees. It is a prerelease project.
+archives from directory trees. Its first source release is 0.1.0.
 
 [Documentation](https://abuild-project.github.io/arca-ada/)
-· [CLI guide](https://github.com/abuild-project/arca-ada/blob/main/doc/cli.md)
+· [Releases](https://github.com/abuild-project/arca-ada/releases)
 · [Contributing](https://github.com/abuild-project/arca-ada/blob/main/CONTRIBUTING.md)
 
 **[Spawn Manager](https://github.com/abuild-project/spawn-manager)**
