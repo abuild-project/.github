@@ -11,7 +11,7 @@ outputs, explicit interfaces and well-tested process lifecycles.
 and TAR archive writers for Ada, plus a Linux command-line tool for creating
 archives from directory trees. It is a prerelease project.
 
-[Documentation](https://github.com/abuild-project/arca-ada#readme)
+[Documentation](https://abuild-project.github.io/arca-ada/)
 · [CLI guide](https://github.com/abuild-project/arca-ada/blob/main/doc/cli.md)
 · [Contributing](https://github.com/abuild-project/arca-ada/blob/main/CONTRIBUTING.md)
 
