@@ -1,33 +1,44 @@
-# Abuild
+<h1 align="center">
+  <img src="./assets/abuild-banner.png" alt="Abuild">
+</h1>
 
-Ada tooling for build orchestration, image creation and process execution.
-
-We maintain Abuild and related tools, with an emphasis on reproducible
-outputs, explicit interfaces and well-tested process lifecycles.
+<p align="center">
+  Ada tooling for build orchestration, image creation and application development.
+</p>
 
 ## Public projects
 
-**[Arca](https://github.com/abuild-project/arca-ada)** provides CPIO `newc`
-and TAR archive writers for Ada, plus a Linux command-line tool for creating
-archives from directory trees.
+### [Arca](https://github.com/abuild-project/arca-ada)
 
-[Documentation](https://abuild-project.github.io/arca-ada/)
-· [Releases](https://github.com/abuild-project/arca-ada/releases)
-· [Contributing](https://github.com/abuild-project/arca-ada/blob/main/CONTRIBUTING.md)
+Write CPIO `newc` and TAR archives from Ada. Arca also provides a Linux
+command-line tool that creates archives from directory trees.
 
-**[Spawn Manager](https://github.com/abuild-project/spawn-manager)**
-lets multitasking Ada applications execute child processes through
-dedicated manager processes. It provides structured execution and
+**[Documentation](https://abuild-project.github.io/arca-ada/)** ·
+[Releases](https://github.com/abuild-project/arca-ada/releases) ·
+[Contributing](https://github.com/abuild-project/arca-ada/blob/main/CONTRIBUTING.md)
+
+### [Spawn Manager](https://github.com/abuild-project/spawn-manager)
+
+Start and manage child processes from multitasking Ada applications through
+dedicated manager processes. Spawn Manager provides structured execution and
 a compatible shell interface.
 
-[Documentation](https://abuild-project.github.io/spawn-manager/)
-· [Releases](https://github.com/abuild-project/spawn-manager/releases)
-· [Contributing](https://github.com/abuild-project/spawn-manager/blob/master/CONTRIBUTING.md)
+**[Documentation](https://abuild-project.github.io/spawn-manager/)** ·
+[Releases](https://github.com/abuild-project/spawn-manager/releases) ·
+[Contributing](https://github.com/abuild-project/spawn-manager/blob/master/CONTRIBUTING.md)
 
-Abuild itself is not public yet. Further repositories will appear here
-as they become available.
+### [Ada MCP Server](https://github.com/abuild-project/ada-mcp-server)
+
+Explore an Ada project from an MCP client through Ada Language Server. Find
+definitions, inspect types, and check file diagnostics in your project view.
+
+**[Documentation](https://abuild-project.github.io/ada-mcp-server/)** ·
+[Releases](https://github.com/abuild-project/ada-mcp-server/releases) ·
+[Contributing](https://github.com/abuild-project/ada-mcp-server/blob/main/doc/development.md)
 
 ## Get involved
 
-Use the respective repository's issues for bugs and proposals.
-For potential vulnerabilities, follow that repository's security policy.
+Open bug reports and proposals in the relevant project repository. For
+potential vulnerabilities, follow that repository's security policy.
+
+Abuild is developed in a private repository.
