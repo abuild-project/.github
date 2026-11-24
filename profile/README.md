@@ -1,11 +1,10 @@
-<h1 align="center">Abuild</h1>
+<h1 align="center">
+  <img src="./assets/abuild-banner.png" alt="Abuild">
+</h1>
 
 <p align="center">
   Ada tooling for build orchestration, image creation and application development.
 </p>
-
-We develop Abuild and its companion tools with an emphasis on reproducible
-outputs, explicit interfaces and well-tested process lifecycles.
 
 ## Public projects
 
@@ -14,7 +13,7 @@ outputs, explicit interfaces and well-tested process lifecycles.
 Write CPIO `newc` and TAR archives from Ada. Arca also provides a Linux
 command-line tool that creates archives from directory trees.
 
-[Documentation](https://abuild-project.github.io/arca-ada/) ·
+**[Documentation](https://abuild-project.github.io/arca-ada/)** ·
 [Releases](https://github.com/abuild-project/arca-ada/releases) ·
 [Contributing](https://github.com/abuild-project/arca-ada/blob/main/CONTRIBUTING.md)
 
@@ -24,7 +23,7 @@ Start and manage child processes from multitasking Ada applications through
 dedicated manager processes. Spawn Manager provides structured execution and
 a compatible shell interface.
 
-[Documentation](https://abuild-project.github.io/spawn-manager/) ·
+**[Documentation](https://abuild-project.github.io/spawn-manager/)** ·
 [Releases](https://github.com/abuild-project/spawn-manager/releases) ·
 [Contributing](https://github.com/abuild-project/spawn-manager/blob/master/CONTRIBUTING.md)
 
@@ -33,7 +32,7 @@ a compatible shell interface.
 Explore an Ada project from an MCP client through Ada Language Server. Find
 definitions, inspect types, and check file diagnostics in your project view.
 
-[Documentation](https://abuild-project.github.io/ada-mcp-server/) ·
+**[Documentation](https://abuild-project.github.io/ada-mcp-server/)** ·
 [Releases](https://github.com/abuild-project/ada-mcp-server/releases) ·
 [Contributing](https://github.com/abuild-project/ada-mcp-server/blob/main/doc/development.md)
 
